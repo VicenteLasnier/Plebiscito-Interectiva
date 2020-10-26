@@ -36,13 +36,13 @@ body {
 
 .demo-3 {
 	--color-text: #191a1b;
-    --color-bg: #c5a98a;
-    --color-link: #3c49b2;
+    --color-bg: #908ac5;
+    --color-link: #2634a0;
     --color-link-hover: #191b1b;
     --color-content-text: #191b1b;
     --color-content-link: #191b1b;
     --color-content-link-hover: #191b1b;
-   	--color-content-secondary: #9f8465;
+   	--color-content-secondary: #6b5eb4;
     --font-content: Prata;
 }
 
